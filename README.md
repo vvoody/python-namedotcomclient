@@ -11,12 +11,9 @@ alone client for anyone wishing to manage their name.com hosted zones via CLI.
 Requirements
 ============
 
-Python >= 2.6 (havent tested it on other stuff, but it would probably work)
-json
-prettytable
-httplib2
-getopt
-ConfigParser
+ * Python >= 2.6 (havent tested it on other stuff, but it would probably work)
+ * prettytable
+ * requests
 
 TODO
 ====
